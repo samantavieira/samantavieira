@@ -1,6 +1,6 @@
-# Cyntia Santos
+# Samanta vieira
 
-## Olá Universo!!!! 👋
+## Olá!!!! 👋
 Sou desenvolvedora, atualmente trabalho como desenvolvedora back end , 
 <br>tenho experiências com  java, jsf, web e banco de dados
 
