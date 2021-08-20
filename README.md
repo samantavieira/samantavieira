@@ -1,7 +1,7 @@
 # Samanta vieira
 
 ## Olá!!!! 👋
-Sou desenvolvedora, atualmente trabalho como desenvolvedora back end , 
+Sou desenvolvedora, atualmente trabalho como  Desenvolvedor back end , 
 <br>tenho experiências com  java, jsf, web e banco de dados
 
  :rocket: 💜&nbsp; Estou trabalhando como Back end Developer em Avanade
